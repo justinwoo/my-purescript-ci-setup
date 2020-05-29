@@ -1,0 +1,10 @@
+{
+  "name": "my-purescript-ci-setup",
+  "set": "psc-0.13.8",
+  "source": "https://github.com/justinwoo/package-sets-jsonnet.git",
+  "depends": [
+    "console",
+    "effect",
+    "prelude"
+  ]
+}
